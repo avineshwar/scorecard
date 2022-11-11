@@ -10,12 +10,12 @@ require (
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/golangci/golangci-lint v1.41.1
 	github.com/google/addlicense v0.0.0-20210809195240-d43bb61fdfda
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.7
 	github.com/google/go-containerregistry v0.6.0
 	github.com/google/go-github/v38 v38.1.0
 	github.com/h2non/filetype v1.1.1
 	github.com/jszwec/csvutil v1.5.0
-	github.com/moby/buildkit v0.8.3
+	github.com/moby/buildkit v0.10.6
 	github.com/naveensrinivasan/httpcache v1.2.2
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/onsi/ginkgo v1.16.4
@@ -27,7 +27,7 @@ require (
 	go.uber.org/zap v1.18.1
 	gocloud.dev v0.23.0
 	golang.org/x/tools v0.1.5
-	google.golang.org/genproto v0.0.0-20210805201207-89edb61ffb67
+	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/yaml.v2 v2.4.0
 	mvdan.cc/sh/v3 v3.3.1
