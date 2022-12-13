@@ -10,7 +10,7 @@ require (
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/golangci/golangci-lint v1.41.1
 	github.com/google/addlicense v0.0.0-20210809195240-d43bb61fdfda
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.9
 	github.com/google/go-containerregistry v0.6.0
 	github.com/google/go-github/v38 v38.1.0
 	github.com/h2non/filetype v1.1.1
@@ -30,5 +30,5 @@ require (
 	google.golang.org/genproto v0.0.0-20210805201207-89edb61ffb67
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/yaml.v2 v2.4.0
-	mvdan.cc/sh/v3 v3.3.1
+	mvdan.cc/sh/v3 v3.6.0
 )
